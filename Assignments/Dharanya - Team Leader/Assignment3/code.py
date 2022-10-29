@@ -1,4 +1,4 @@
-/import RP1.GPIO as GP10
+import RP1.GPIO as GP10
 import time
 
 GPIO. setmode(GPIO.BOARD)
